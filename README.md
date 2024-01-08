@@ -1,1 +1,2 @@
-# simple-ipv4-nonblocking-chat-core
+#Using:
+telnet 127.0.0.1 1234
